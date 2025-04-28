@@ -53,7 +53,7 @@ Estrutura de diretórios:
 
 ## ⚙️ Funcionamento
 
-![Automatizando Criação de Usuários](./docs/create-users)
+![Automatizando Criação de Usuários](./docs/create-users.png)
 
 O script realiza:
 - Leitura dos usuários de um arquivo `.csv` ou entrada manual
