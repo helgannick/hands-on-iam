@@ -53,18 +53,11 @@ Estrutura de diretórios:
 
 ## ⚙️ Funcionamento
 
-![Automatizando Criação de Usuários](./docs/automating_user_creation_in_aws.png)
+![Automatizando Criação de Usuários](./docs/create-users)
 
 O script realiza:
-- Leitura dos usuários de um arquivo `.txt` ou entrada manual
+- Leitura dos usuários de um arquivo `.csv` ou entrada manual
 - Criação de usuários no IAM com configuração inicial
 - Atribuição de políticas customizadas
 - Ativação da autenticação multifator (MFA)
 
----
-
-## 🚀 Como Executar
-
-1. **Clone o repositório**:
-   ```bash
-   git clone https://github.com/seuusuario/seurepositorio.git
