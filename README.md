@@ -41,8 +41,6 @@ O fluxo funciona da seguinte maneira:
 
 ## 📂 Organização do Projeto
 
-![Organização de Projeto Cloud](./docs/organizacao_projeto_cloud.png)
-
 Estrutura de diretórios:
 
 - **scripts/**: Contém os scripts de automação.
@@ -54,6 +52,10 @@ Estrutura de diretórios:
 ## ⚙️ Funcionamento
 
 ![Automatizando Criação de Usuários](./docs/create-users.png)
+![Automatizando Listando os Usuários](./docs/list-users.png)
+![Automatizando Console AWS](./docs/console-aws.png)
+
+
 
 O script realiza:
 - Leitura dos usuários de um arquivo `.csv` ou entrada manual
